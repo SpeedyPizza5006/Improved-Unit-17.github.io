@@ -46,7 +46,7 @@ button{
   font-size: 25px;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:500px) {
   #topPicture{
     width:100%;
     height:30%;
@@ -58,7 +58,7 @@ button{
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
-    width:50%;
+    width:100%;
     height:30%;
     font-family: "Bad Script";
     background-color:cornflowerblue;
