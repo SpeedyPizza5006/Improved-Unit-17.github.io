@@ -57,5 +57,7 @@ div.gallery {
     }
       #title{
           display:block;
-    }          
+    } 
+      div.gallery{
+          display:block;
   }
