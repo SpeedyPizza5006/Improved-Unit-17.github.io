@@ -55,4 +55,7 @@ div.gallery {
     button{
       display:block;
     }
+      #title{
+          display:block;
+    }          
   }
