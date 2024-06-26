@@ -58,6 +58,8 @@ div.gallery {
       #title{
           display:block;
     } 
-      .gallery{
+      div.gallery{
           display:block;
+          margin-left:auto;
+          margin-right:auto;
   }
