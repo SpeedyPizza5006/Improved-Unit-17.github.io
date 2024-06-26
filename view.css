@@ -58,6 +58,6 @@ div.gallery {
       #title{
           display:block;
     } 
-      div.gallery{
+      .gallery{
           display:block;
   }
